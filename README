@@ -1,0 +1,10 @@
+yasha1: Yet Another SHA1
+
+I wrote this because the others I found did something fancy about
+encoding/decoding UTF8. This one is very dumb, has no dependencies,
+and hopefully is easy to understand.
+
+It's a line-by-line translation of the reference C code at
+http://www.packetizer.com/security/sha1/
+
+Released under the BSD License.
